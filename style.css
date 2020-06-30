@@ -1,0 +1,40 @@
+#title{
+    text-align: center;
+}
+.description{
+    font-size:20px;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height:auto;
+    margin-left:auto;
+}
+#img-div{
+    margin-top:10px;
+    text-align: center;
+}
+#img-div img{
+    vertical-align: bottom;
+}
+#img-caption{
+    margin-top:20px;
+}
+.timeline{
+    font-size:20px;
+    text-align: center;
+}
+#tribute-info{
+    margin-left:50px;
+    margin-right:50px;
+    padding:20px;
+    line-height: 2em;
+    font-size:15px;
+    text-align: left;
+}
+.link{
+    text-align: center;
+}
+body{
+    background-color: gainsboro;
+}
